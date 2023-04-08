@@ -24,8 +24,8 @@ Operator Foundation has a set of cross-platform libraries that provide core func
 - [Datable](https://github.com/OperatorFoundation/Datable) - conversion between numbers, text, etc. to and from data
 - [Keychain](https://github.com/OperatorFoundation/Keychain) - cryptography and system keychain access
 - [Chord](https://github.com/OperatorFoundation/Chord) - multi-tasking
-- [Shapeshifter](https://github.com/OperatorFoundation/ShapeshifterSwift) - Pluggable Transports for obfuscating network traffic
-- [Moonbounce](https://github.com/OperatorFoundation/MoonbounceMacOS) - functionality for implementing a VPN
+- [Shapeshifter](https://github.com/OperatorFoundation/shapeshifter-transports) - Pluggable Transports for obfuscating network traffic
+- [Moonbounce](https://github.com/OperatorFoundation/Moonbounce) - functionality for implementing a VPN
 - [Straw](https://github.com/OperatorFoundation/Straw) - buffer management for data streams
 - [Dice](https://github.com/OperatorFoundation/Dice) - random number generation
 - [Locket](https://github.com/OperatorFoundation/Locket) - advanced logging for debugging digital networking
